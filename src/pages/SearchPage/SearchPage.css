@@ -1,0 +1,15 @@
+.char-container{
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    flex-wrap: wrap;
+}
+
+.search-container{
+    display: flex;
+    justify-content: center;
+}
+.search-container input{
+    width: 50%;
+    height: 3rem;
+}
